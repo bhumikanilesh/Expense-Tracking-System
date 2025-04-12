@@ -1,4 +1,4 @@
-# Family Expense Management System
+# Family Expense Management System - USING ARRAY OF STRUCTURES
 
 ## Overview
 This program is a **Family Expense Management System** written in C. It allows users to manage users, families, and expenses efficiently. The system supports the addition, retrieval, and updating of records for users, families, and expenses.
